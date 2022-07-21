@@ -1,6 +1,6 @@
 # #ALADINBOT_MD
 WORLD FASTEST SUPERB & SEQUERD BOT🔒
-<p align="center"> <a href="https://github.com/AladinOfficial"><img align="center" src="https://telegra.ph/file/2ae9c01cc5287fdf88cd0.png"/></a>
+<p align="center"> <a href="https://github.com/AladinOfficial"><img align="center" src="https://telegra.ph/file/c071bd931987cbbcbeac2.jpg"/></a>
  <p align="center">
 <a href="https://github.com/AladinOfficial/ALADINBOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/AladinOfficial"></a>
 <a href="https://github.com/AladinOfficial/ALADINBOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AladinOfficial/ALADINBOT-MD"></a>
@@ -15,10 +15,10 @@ WORLD FASTEST SUPERB & SEQUERD BOT🔒
     
   ### ඔබට QR කේතය පහසුවෙන්  Repl.it මඟින් ලබා ගත හැක... පහල Run On Repl.it බටනය CLICK කරන්න
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@AlphaXteam/Alpha-X-MD-Bot-QR?v=1)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල Deploy බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=hhttps://github.com/AladinOfficial/ALADINBOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AladinOfficial/Aladin-X-Multi-Device-Bot-Installer)
 
 ---------------------------------   
 
